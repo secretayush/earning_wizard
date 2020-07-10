@@ -25,10 +25,6 @@ i {
   color: black;
   size: 30px;
 }
-a{
-  text-decoration: none;
-  color: black;
-}
 /* Show the dropdown menu on hover */
 
 .mainhead {
@@ -54,6 +50,11 @@ main {
   background-repeat: no-repeat;
   background-size: cover;
   background-size: 1600px 900px;
+}
+.bg >div>div>a{
+  text-decoration: none;
+  color: black;
+
 }
 .bg >div>div {
   font-family: "Merienda One", cursive;
